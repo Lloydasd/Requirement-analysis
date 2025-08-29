@@ -14,6 +14,38 @@ Requirement Analysis in software developement is the a critical part of software
 - It also helps define the scope of the software
 - It also serves a solid foundation for designing and developing the partiular sofware
 
+## Key Activities in Requirement Analysis.
+### Requirement Gathering
+This activity focuses on obtaining detailed information about stakeholder needs and expectations. 
+Different techniques are used to ensure requirements are accurate and complete:
+- **Interviews:** One-on-one discussions to gain deep insights into user needs.  
+- **Surveys/Questionnaires:** Collect responses from a wider audience to identify common requirements.  
+- **Workshops:** Collaborative sessions to align multiple stakeholders and resolve conflicting needs.  
+- **Observation:** Watching users in their environment to uncover unspoken needs and pain points.  
+- **Document Analysis:** Reviewing existing systems and records to understand current functionalities.  
 
+### Requirement Elicitation
+These methods are used to generate additional ideas, clarify unclear requirements, and refine the system vision.Some techniques used are:
+- **Brainstorming**: Conducting idea-generation sessions with stakeholders to capture a wide range of requirements.  
+- **Focus Groups**: Holding guided discussions with selected stakeholders to explore requirements in detail.  
+- **Prototyping**: Creating early models or mockups of the system to help stakeholders visualize features and refine their needs.
+
+### Requirement Documentation
+Once requirements have been gathered and clarified, they must be documented clearly so that all stakeholders and developers share a common understanding.
+- **Requirement Specification Document**: A detailed document that lists all **functional** and **non-functional** requirements of the system.  
+- **User Stories**: Short, simple descriptions of system features written from the user’s perspective (e.g., *“As a student, I want to reset my password so that I can access my account when I forget it”*).  
+- **Use Cases**: Structured descriptions or diagrams showing how users (actors) interact with the system to achieve specific goals.
+
+### Requirement Analysis and Modeling
+At this stage, requirements are examined more critically to determine their priority, feasibility, and structure. This ensures the project remains realistic and aligned with business goals.
+- **Requirement Prioritization**: Ranking requirements based on importance, urgency, and impact on the project. Helps in deciding which features to implement first.  
+- **Feasibility Analysis**: Assessing whether requirements can be implemented given the technical, financial, and time constraints of the project.  
+- **Modeling**: Using models (e.g., Data Flow Diagrams, Entity-Relationship Diagrams, Use Case Diagrams) to visualize requirements and analyze how different components of the system will interact.
+
+### Requirement Validation
+After analysis and modeling, the refined requirements are brought back to stakeholders for validation. This ensures the documented needs are accurate, feasible, and aligned with stakeholder expectations.
+- **Review and Approval**: Going through the documented requirements with stakeholders to confirm accuracy, completeness, and alignment with business objectives.  
+- **Acceptance Criteria**: Defining measurable conditions that each requirement must satisfy in order to be considered complete and acceptable.  
+- **Traceability**: Creating traceability matrices to map requirements to design, development, and testing stages — ensuring that every requirement is addressed and nothing is overlooked.
 
 
