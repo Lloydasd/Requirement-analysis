@@ -48,4 +48,21 @@ After analysis and modeling, the refined requirements are brought back to stakeh
 - **Acceptance Criteria**: Defining measurable conditions that each requirement must satisfy in order to be considered complete and acceptable.  
 - **Traceability**: Creating traceability matrices to map requirements to design, development, and testing stages — ensuring that every requirement is addressed and nothing is overlooked.
 
+## Types of Requirement
+### Functional Requirement
+Functional requirements define **what the system should do** — the specific features and functions that the system must provide.  
+
+- Hotel managers should be able to **create, update, and delete hotel listings** (rooms, amenities, prices, availability).  
+- Managers should be able to **upload media** (photos, videos) for their hotels.  
+- Customers should be able to **search hotels** by location, price, availability, or amenities.  
+- Customers should be able to **book a hotel room**.  
+
+### Non Functional Requirement
+Non-functional requirements describe the quality attributes and constraints of the system.
+
+- The system should handle **thousands of concurrent users** without performance degradation.  
+- Search results should load in **less than 2 seconds**.  
+- The system should provide **99.9% uptime** with fault tolerance.  
+- All transactions should be **encrypted** to ensure security.  
+- The app should be accessible on **both mobile and web platforms**.  
 
