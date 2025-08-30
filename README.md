@@ -48,7 +48,7 @@ After analysis and modeling, the refined requirements are brought back to stakeh
 - **Acceptance Criteria**: Defining measurable conditions that each requirement must satisfy in order to be considered complete and acceptable.  
 - **Traceability**: Creating traceability matrices to map requirements to design, development, and testing stages — ensuring that every requirement is addressed and nothing is overlooked.
 
-## Types of Requirement
+## Types of Requirements
 ### Functional Requirement
 Functional requirements define **what the system should do** — the specific features and functions that the system must provide.  
 
