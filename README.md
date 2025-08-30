@@ -77,3 +77,18 @@ Use Case Diagrams are visual representations that show how different users (call
 - **Facilitate communication** among stakeholders and the development team.
 
 ![booking image](alx-booking-uc.png)
+
+## Aceptance Criteria
+They are conditions that the feature must meet to be consideered as done
+---
+
+**How to Define Acceptance Criteria **
+- Be specific and measurable.
+- Include functional and non-functional aspects.
+
+** Example
+- **Booking Details Confirmation**  
+  - The system must display the correct room type, dates, price, and any selected extras before payment.
+
+- **Customer Information**  
+  - Required fields (name, email, phone) must be validated (e.g., email format, no empty required fields).
