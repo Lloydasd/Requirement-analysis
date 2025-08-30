@@ -64,5 +64,16 @@ Non-functional requirements describe the quality attributes and constraints of t
 - Search results should load in **less than 2 seconds**.  
 - The system should provide **99.9% uptime** with fault tolerance.  
 - All transactions should be **encrypted** to ensure security.  
-- The app should be accessible on **both mobile and web platforms**.  
+- The app should be accessible on **both mobile and web platforms**.
 
+## What are Use Case Diagrams?
+Use Case Diagrams are visual representations that show how different users (called *actors*) interact with a system to achieve specific goals (called *use cases*). They illustrate the system's functionalities and the relationships between users and actions.
+
+---
+
+**Benefits of Use Case Diagrams **
+- Provide a clear **visual representation of system functionalities**.  
+- Help in **identifying and organizing requirements** effectively.  
+- **Facilitate communication** among stakeholders and the development team.
+
+![booking image](alx-booking-uc.png)
