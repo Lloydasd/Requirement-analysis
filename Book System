@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
+  <diagram id="Uqtv1J9cO4f8iurEyASy" name="Page-1">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Manager" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="305" y="8" width="120" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Create/Update/Delete Hotel Listings" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="8" y="152" width="215" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Upload Media" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="273" y="204" width="112" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Search Hotels" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="461" y="203" width="113" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Book Hotel Room" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="731" y="191" width="137" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Customer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="668" y="8" width="128" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Create/Update/Delete Hotel Listings" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0.5;entryY=0;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="116" y="107" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" value="Upload Media" style="curved=1;startArrow=none;endArrow=block;exitX=0.31;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="2" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="329" y="107" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="Search Hotels" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.35;entryY=0;" edge="1" parent="1" source="2" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="471" y="107" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="Book Hotel Room" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.74;entryX=0.26;entryY=0;" edge="1" parent="1" source="2" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="726" y="107" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="Search Hotels" style="curved=1;startArrow=none;endArrow=block;exitX=0.09;exitY=1;entryX=0.75;entryY=0;" edge="1" parent="1" source="7" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="592" y="107" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" value="Book Hotel Room" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=1;entryX=0.74;entryY=0;" edge="1" parent="1" source="7" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="872" y="107" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
