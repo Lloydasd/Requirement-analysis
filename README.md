@@ -82,11 +82,11 @@ Use Case Diagrams are visual representations that show how different users (call
 They are conditions that the feature must meet to be consideered as done
 ---
 
-**How to Define Acceptance Criteria **
+**How to Define Acceptance Criteria**
 - Be specific and measurable.
 - Include functional and non-functional aspects.
 
-** Example
+**Example**
 - **Booking Details Confirmation**  
   - The system must display the correct room type, dates, price, and any selected extras before payment.
 
